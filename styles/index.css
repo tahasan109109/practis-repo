@@ -198,6 +198,11 @@ nav li a {
   color: #757575;
   /* margin-top: 20px; */
 }
+.rsm-button{
+     width: 200px;
+    height: 64px;
+    font-size: 20px;
+}
 hr {
   margin: 25px 0px;
 }
